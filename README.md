@@ -1,6 +1,6 @@
 # 🌟 Smart Goal Master
 
-Welcome to **Smart Goal Master** — your fun, motivating, and interactive goal tracking app! 🚀  
+Welcome to **Smart Goal Master** — your fun, motivating, and interactive goal-tracking app! 🚀  
 Created by **MUHAMMAD HAMMAD ZUBAIR** 👨‍💻
 
 🔗 **Live App**: [Smart Goal Master on Streamlit](https://sgbymhz.streamlit.app/)
@@ -9,14 +9,14 @@ Created by **MUHAMMAD HAMMAD ZUBAIR** 👨‍💻
 
 ## ✨ Features
 
-✅ Add personal goals with deadlines  
-📋 View all your goals at a glance  
-✅ Mark goals as completed with a single click  
-📈 Track your goal progress and success streak  
-💬 Get motivational quotes to stay inspired  
-📄 Export your goals to a beautiful PDF report  
-🧹 Reset all goals with fun animations  
-🎞️ Smooth Lottie animations for fun UX  
+- ✅ **Add personal goals** with deadlines
+- 📋 **View all your goals** at a glance
+- ✅ **Mark goals as completed** with a single click
+- 📈 **Track your goal progress** and success streak
+- 💬 **Get motivational quotes** to stay inspired
+- 📄 **Export your goals** to a beautiful PDF report
+- 🧹 **Reset all goals** with fun animations
+- 🎞️ **Smooth Lottie animations** for a fun and engaging UX
 
 ---
 
@@ -30,27 +30,27 @@ Created by **MUHAMMAD HAMMAD ZUBAIR** 👨‍💻
 
 ## 🛠️ Technologies Used
 
-- Python 🐍  
-- Streamlit 🚀  
-- FPDF for PDF generation 🧾  
-- Lottie for engaging animations 🎞️  
-- Emojis and styled markdown 😎
+- **Python** 🐍  
+- **Streamlit** 🚀  
+- **FPDF** for PDF generation 🧾  
+- **Lottie** for engaging animations 🎞️  
+- Emojis and styled markdown for a sleek design 😎
 
 ---
 
 ## 💡 How to Use
 
-1. Click on ➕ Add Goal in the sidebar  
-2. Enter your goal and select a deadline 📅  
-3. View and mark your progress under 📋 View Goals  
-4. Export your goals report in 📄 Export Goals  
-5. Use 🧹 Reset All to start fresh anytime
+1. Click on ➕ **Add Goal** in the sidebar
+2. Enter your goal and select a deadline 📅
+3. View and mark your progress under 📋 **View Goals**
+4. Export your goals report in 📄 **Export Goals**
+5. Use 🧹 **Reset All** to start fresh anytime
 
 ---
 
 ## 📤 Export Sample
 
-You can download your goals as a PDF with title, status, deadline, and created date — neatly formatted for your records! 📑
+You can download your goals as a PDF, including the title, status, deadline, and created date — neatly formatted for your records! 📑
 
 ---
 
@@ -64,4 +64,3 @@ Made with ❤️ by **MUHAMMAD HAMMAD ZUBAIR**
 ## 📜 License
 
 This project is open-source and free to use!
-
