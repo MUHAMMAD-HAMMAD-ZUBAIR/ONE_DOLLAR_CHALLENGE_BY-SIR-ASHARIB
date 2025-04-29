@@ -20,12 +20,6 @@ Created by **MUHAMMAD HAMMAD ZUBAIR** 👨‍💻
 
 ---
 
-## 📸 Screenshots
-
-| Add Goal ✍️ | Track Progress 📊 |
-|-------------|------------------|
-| ![Add Goal](https://i.imgur.com/2lEOfFV.png) | ![Progress](https://i.imgur.com/WI2kUHL.png) |
-
 ---
 
 ## 🛠️ Technologies Used
