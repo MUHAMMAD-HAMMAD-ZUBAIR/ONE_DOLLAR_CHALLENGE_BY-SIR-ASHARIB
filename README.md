@@ -3,7 +3,7 @@
 Welcome to **Smart Goal Master** — your fun, motivating, and interactive goal-tracking app! 🚀  
 Created by **MUHAMMAD HAMMAD ZUBAIR** 👨‍💻
 
-🔗 **Live App**: [Smart Goal Master on Streamlit](https://sgbymhz.streamlit.app/)
+🔗 **Live App**: [Smart Goal Master on Streamlit](https://sgmbymhz.streamlit.app/)
 
 ---
 
@@ -51,7 +51,7 @@ You can download your goals as a PDF, including the title, status, deadline, and
 ## 👨‍💻 Developer
 
 Made with ❤️ by **MUHAMMAD HAMMAD ZUBAIR**  
-[Streamlit App](https://sgbymhz.streamlit.app/) | Powered by **Python** 🐍 + **Streamlit** 🚀
+[Streamlit App](https://sgmbymhz.streamlit.app/) | Powered by **Python** 🐍 + **Streamlit** 🚀
 
 ---
 
